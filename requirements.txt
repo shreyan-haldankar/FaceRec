@@ -1,0 +1,10 @@
+###### Dependencies for OpenCV ######
+cmake
+dlib
+numpy~=1.22.3
+opencv-python~=4.5.5.64
+face-recognition
+
+###### Dependencies for PyQt5 ######
+PyQt5~=5.15.4
+pyqt5-tools
