@@ -20,3 +20,8 @@ Run the ``` mainwindow.py``` file
 
 In order to test the Face Recognotion System, insert a photo of a person in the Images Attendance Folder, and then run the ```
 mainwindow.py ``` file and scan the face of the person and Clock In. Then Open the Attendance.csv file to check whether the person has Clocked In.
+
+
+# Resources
+
+* [Adam Geitgey](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78) : How Face Recognition works
