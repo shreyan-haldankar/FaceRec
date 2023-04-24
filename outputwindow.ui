@@ -33,7 +33,7 @@
    </font>
   </property>
   <property name="windowTitle">
-   <string>Facial Recognition PyQt App</string>
+   <string>Facial Recognition</string>
   </property>
   <property name="windowIcon">
    <iconset resource="resource.qrc">
@@ -97,37 +97,37 @@
        <bool>false</bool>
       </property>
       <property name="text">
-       <string>Clock In</string>
+       <string>Log</string>
       </property>
       <property name="checkable">
        <bool>true</bool>
       </property>
      </widget>
     </item>
-    <item>
-     <widget class="QPushButton" name="ClockOutButton">
-      <property name="font">
-       <font>
-        <family>SansSerif</family>
-        <pointsize>10</pointsize>
-        <weight>75</weight>
-        <bold>true</bold>
-       </font>
-      </property>
-      <property name="autoFillBackground">
-       <bool>false</bool>
-      </property>
-      <property name="styleSheet">
-       <string notr="true"/>
-      </property>
-      <property name="text">
-       <string>Clock Out</string>
-      </property>
-      <property name="checkable">
-       <bool>true</bool>
-      </property>
-     </widget>
-    </item>
+<!--    <item>-->
+<!--     <widget class="QPushButton" name="ClockOutButton">-->
+<!--      <property name="font">-->
+<!--       <font>-->
+<!--        <family>SansSerif</family>-->
+<!--        <pointsize>10</pointsize>-->
+<!--        <weight>75</weight>-->
+<!--        <bold>true</bold>-->
+<!--       </font>-->
+<!--      </property>-->
+<!--      <property name="autoFillBackground">-->
+<!--       <bool>false</bool>-->
+<!--      </property>-->
+<!--      <property name="styleSheet">-->
+<!--       <string notr="true"/>-->
+<!--      </property>-->
+<!--      <property name="text">-->
+<!--       <string>Clock Out</string>-->
+<!--      </property>-->
+<!--      <property name="checkable">-->
+<!--       <bool>true</bool>-->
+<!--      </property>-->
+<!--     </widget>-->
+<!--    </item>-->
    </layout>
   </widget>
   <widget class="QWidget" name="gridLayoutWidget">

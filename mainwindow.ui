@@ -17,7 +17,7 @@
    </size>
   </property>
   <property name="windowTitle">
-   <string>Face Recognition Based Attendance</string>
+   <string>Face Recognition</string>
   </property>
   <property name="windowIcon">
    <iconset resource="resource.qrc">
@@ -68,7 +68,7 @@
          </font>
         </property>
         <property name="text">
-         <string>Face Recognition Based Attendance System</string>
+         <string>Face Recognition</string>
         </property>
        </widget>
       </item>
